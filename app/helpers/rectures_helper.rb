@@ -1,0 +1,2 @@
+module RecturesHelper
+end
